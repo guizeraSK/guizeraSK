@@ -1,4 +1,4 @@
-Oi, me chamo Guilherme Santiago 👋
+Oi, eu sou o Guilherme Santiago 👋
 
 My characteristics:
 
