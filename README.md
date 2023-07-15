@@ -1,8 +1,8 @@
 Oi, eu sou o Guilherme Santiago...👋
 
-Atualmente estou...
-
-- 📖 Estudando Sistemas para Internet pela QI Brasil.
+- 📖 Formado em Sistemas para Internet pela QI Brasil.
+- 👨🏾‍💻 Desenvolvedor FullStack.
+- ☁️ Conhecimento Cloud Azure.
 
 ##
 
